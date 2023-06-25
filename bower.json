@@ -1,0 +1,24 @@
+{
+  "name": "threex.daynight",
+  "description": "",
+  "main": "client.js",
+  "authors": [
+    "e"
+  ],
+  "license": "w",
+  "keywords": [
+    "threex"
+  ],
+  "homepage": "https://github.com/jeromeetienne/threex.daynight",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threex.daynight": "*"
+  }
+}
